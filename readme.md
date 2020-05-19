@@ -1,8 +1,11 @@
 # The Rust Programming Language
 
 Just a place for me to keep the coding examples I work on while I read "The Rust Programming Language" by Steve Klabnik and Carol Nichols
-the book in its current form is [available here](https://doc.rust-lang.org/book/)
-the book source is [available here](https://github.com/rust-lang/book/)
+
+The book in its current form is [available here](https://doc.rust-lang.org/book/)
+
+The book source is [available here](https://github.com/rust-lang/book/)
+
 You can [buy a physical copy here](https://nostarch.com/Rust)
 
 
